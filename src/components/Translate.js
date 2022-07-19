@@ -8,12 +8,16 @@ const options = [
     value: 'af',
   },
   {
-    label: 'Arabic',
-    value: 'ar',
+    label: 'Italian',
+    value: 'it',
   },
   {
-    label: 'Hindi',
-    value: 'hi',
+    label: 'Spanish',
+    value: 'es',
+  },
+  {
+    label: 'German',
+    value: 'de',
   },
   {
     label: 'Dutch',
